@@ -673,6 +673,9 @@ many Friends came to see me, and we were favoured together.
 I was enabled to speak beyond my expectation, to the comfort and encouragement of some,
 and caution of others, and took a solemn farewell of them in the love of Truth.
 
+[.asterism]
+'''
+
 About this time she penned the following letter:
 
 [.signed-section-context-open]
@@ -767,7 +770,7 @@ I now conclude in true love, your friend,
 [.signed-section-signature]
 Catherine Payton
 
-N. B. These Friends had lately lost a young son.
+N+++.+++ B. These Friends had lately lost a young son.
 
 The 14th, we went to Waterford, but I continued so much indisposed,
 that it appeared best to go into the country; so we retired to a village called Tramore,

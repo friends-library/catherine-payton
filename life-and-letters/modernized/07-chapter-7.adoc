@@ -104,8 +104,8 @@ I penned the rough draught of an Epistle to Friends in Ireland,
 and after my return home transcribed and sent it.
 The Epistle is as follows:
 
-[.signed-section-context-open]
-To Friends in Ireland.
+[discrete.alt]
+=== To Friends in Ireland.
 
 [.salutation]
 Dear Friends,
@@ -892,10 +892,13 @@ as of late years had been usual,
 nor did the life of Truth in the ministry rise to the height I have known it; yet,
 upon the whole, Friends had cause to be thankful for the opportunity.
 
+[.asterism]
+'''
+
 About this time she wrote the following Epistle:
 
 [.signed-section-context-open]
-To the Quarterly Men's meeting of Friends of ________,
+To the Quarterly Men's meeting of Friends of +++________+++,
 
 [.salutation]
 Dear Friends,
@@ -992,7 +995,7 @@ Catherine Payton
 [.signed-section-context-close]
 27th of 8th month, 1761.
 
-N. B. This Epistle may appear close and sharp, considering unto whom it was directed;
+N+++.+++ B. This Epistle may appear close and sharp, considering unto whom it was directed;
 but there was sorrowful cause for it, in some individuals.
 
 From this meeting I went to spend a day or two with my dear sister Young at Leominster,

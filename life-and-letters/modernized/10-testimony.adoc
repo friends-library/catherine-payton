@@ -1,4 +1,4 @@
-[.style-blurb, short="Testimony From Her Monthly Meeting"]
+[#testimony.style-blurb, short="Testimony"]
 == A Testimony from the monthly meeting of Friends for the Western Division of Cornwall, held at Falmouth the 6th of the fourth month, 1795, concerning our late valued friend, Catherine Phillips, formerly Payton.
 
 It appears, from accounts received, that she was born at Dudley in Worcestershire,

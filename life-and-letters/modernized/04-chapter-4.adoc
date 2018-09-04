@@ -251,6 +251,9 @@ and while in Carolina appeared conscientiously concerned for the people's welfar
 Some time after we left America he returned to England,
 and I think I heard that the people did not like his close doctrine.
 
+[.asterism]
+'''
+
 [discrete.alt]
 === To my brother Henry Payton, written on board the Alexander, 6th of the Tenth month, 1753, at Sea, Lat. 25° North.
 
@@ -477,6 +480,9 @@ to lasting benefit, is the sincere and ardent desire of your affectionate sister
 
 [.signed-section-signature]
 Catherine Payton.
+
+[.asterism]
+'''
 
 We lodged in Charleston at John Sinclair's, who was educated amongst Friends,
 but had married one not of our Society.
@@ -2610,7 +2616,7 @@ The sailors accounted it a very fine passage, but we suffered very much in it,
 through the boisterous winds, and their consequences.
 The wind being right aft, the water frequently dashed over into our cabin,
 although our deadlights^
-footnote:[Boards put to defend the cabin-windows in storms.]
+footnote:[boards put in to defend the cabin-windows in storms.]
 were mostly kept up; and it ran much under my bed,
 so as to render my lodging very uncomfortable; and,
 being sea-sick and otherwise indisposed, I was at times sunk very low,

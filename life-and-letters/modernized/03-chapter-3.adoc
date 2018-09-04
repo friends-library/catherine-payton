@@ -6,7 +6,7 @@
 * Prospect of paying a religious visit in America
 * Letter to Mary Peisley and her reply
 
-On the 3rd of the fourth month, 1752, new stile, we went to Colebrookdale,
+On the 3rd of the fourth month, 1752, new style, we went to Colebrookdale,
 and had a meeting there the same evening, in which we had good satisfaction:
 the testimony of Truth flowed to the youth,
 some of whom were carried away with the vanities of this world,
@@ -407,7 +407,7 @@ unchangeable state of felicity we humbly hope for.
 
 I now come to answer your last request, which will show the cause of my silence, that is:
 Whether I knew of any woman Friend who was going from England to America.
-I told you I had a hint of _______'s inclination, the same I had of _______,
+I told you I had a hint of +++_______+++'s inclination, the same I had of +++_______+++,
 but know not that either is more than supposition,
 for I do not hear that either are preparing to set forward,
 and have heard of no one else.
@@ -444,7 +444,8 @@ and leave me to Providence, who, I believe will take care of me.
 [.signed-section-signature]
 Catherine Payton
 
-Some extracts of Mary Peisley's letter to Catherine Phillips, in answer to the foregoing.
+[discrete.alt]
+=== Some extracts of Mary Peisley's letter to Catherine Phillips, in answer to the foregoing.
 
 [.salutation]
 My Dearly Beloved in the Lord,

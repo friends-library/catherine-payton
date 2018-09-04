@@ -263,7 +263,8 @@ but as he saw meet in wisdom and mercy, to raise me from this state of weakness,
 my earnest desire was,
 that my longer continuance in mutability might be to the honour of his ever worthy name.
 
-Letter from her mother received about this time.
+[discrete.alt]
+=== Letter from her mother received about this time.
 
 [.signed-section-context-open]
 Dudley, 8th of Fourth month, 1751.
@@ -374,8 +375,8 @@ and great enjoyment in the Truth;
 which was an abundant compensation for all my
 labour and sufferings attending the journey.
 
-Copy of a Letter to that truly great minister, my ancient friend,
-Abigail Watson of Ireland.
+[discrete.alt]
+=== Copy of a Letter to that truly great minister, my ancient friend, Abigail Watson of Ireland.
 
 [.signed-section-context-open]
 Dudley, 18th of Eleventh month, 1751.
