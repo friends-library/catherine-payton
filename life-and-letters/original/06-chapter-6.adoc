@@ -210,7 +210,7 @@ and a dependence on instrumental ministry, or at least a fondness for it.
 
 While at Amsterdam she wrote the following letter, viz:
 
-[discrete.alt]
+[.alt]
 === To a young man in Ireland, who had been long under religious impressions.
 
 [.signed-section-context-open]
@@ -530,7 +530,7 @@ This winter I spent much about home, and amongst my relations: not in idleness,
 for I was very closely engaged either in attending monthly or quarterly meetings,
 or other services.
 
-[discrete.alt]
+[.alt]
 === Extract of a letter to a young man, under religious exercises.
 
 [.salutation]

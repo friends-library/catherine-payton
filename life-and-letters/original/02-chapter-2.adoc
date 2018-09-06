@@ -263,7 +263,7 @@ but as he saw meet in wisdom and mercy, to raise me from this state of weakness,
 my earnest desire was,
 that my longer continuance in mutability might be to the honour of his ever worthy name.
 
-[discrete.alt]
+[.alt]
 === Letter from her mother received about this time.
 
 [.signed-section-context-open]
@@ -375,7 +375,7 @@ and great enjoyment in the Truth;
 which was an abundant compensation for all my
 labour and sufferings attending the journey.
 
-[discrete.alt]
+[.alt]
 === Copy of a Letter to that truly great minister, my ancient friend, Abigail Watson of Ireland.
 
 [.signed-section-context-open]
@@ -434,7 +434,7 @@ I was also concerned to write a few lines to a people at Cardiff in Wales,
 who had in part relinquished their former professions of religion,
 and sat together in silence, but were in an unsettled state.
 
-[discrete.alt]
+[.alt]
 === To the few who have been convinced of the rectitude of waiting upon the Lord in silence, and accustomed to meet for that good end, in Cardiff.
 
 [.salutation]

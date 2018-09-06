@@ -1110,7 +1110,7 @@ amongst a people not professing with us;
 but some of whom appeared to me to be near the kingdom.
 The 6th, we got home.
 
-[discrete.alt]
+[.alt]
 === Extract of a letter to a Member of our Society, who had spent much of his time very inconsistently with his profession of religion, and was favoured with a Divine visitation when far advanced in life.
 
 [.signed-section-context-open]
@@ -1263,7 +1263,7 @@ The 1st of third month, I had a large good meeting at Helston,
 which many serious and religious people attended,
 and I believe were instructed and refreshed.
 
-[discrete.alt]
+[.alt]
 === Copy of a letter to a young man from America
 
 [.signed-section-context-open]

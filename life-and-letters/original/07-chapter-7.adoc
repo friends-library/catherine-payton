@@ -104,7 +104,7 @@ draught of an Epistle to Friends in Ireland,
 and after my return home transcribed and sent it.
 The Epistle is as follows, viz.
 
-[discrete.alt]
+[.alt]
 === To Friends in Ireland.
 
 [.salutation]
