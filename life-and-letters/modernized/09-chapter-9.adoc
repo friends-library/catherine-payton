@@ -1396,7 +1396,7 @@ that he had as much business in accommodating disputes about property,
 and other acts of kind aid as his strength would well bear.
 He died beloved, and his loss was regretted by both the rich and poor.
 
-[.alt]
+[.blurb]
 === To a relation.
 
 [.signed-section-context-open]
@@ -1638,7 +1638,7 @@ Catherine Phillips
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === To +++_______+++, who had been long in a distressed state of mind, from some tenets esteemed religious.
 
 [.salutation]
