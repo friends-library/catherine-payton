@@ -1400,6 +1400,9 @@ He died beloved, and his loss was regretted by both the rich and poor.
 [.blurb]
 === To a relation.
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Redruth, 29th of Seventh month, 1793.
 
@@ -1497,8 +1500,13 @@ of thy sympathizing
 [.signed-section-signature]
 Catherine Phillips
 
+--
+
 [.asterism]
 '''
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 To Redruth, Eleventh month 2nd, 1793.
@@ -1638,11 +1646,16 @@ Thy affectionate friend,
 [.signed-section-signature]
 Catherine Phillips
 
+--
+
 [.asterism]
 '''
 
 [.blurb]
 === To +++_______+++, who had been long in a distressed state of mind, from some tenets esteemed religious.
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Esteemed friend,
@@ -1770,3 +1783,5 @@ and sincerely subscribe myself thy friend,
 
 [.signed-section-signature]
 Catherine Phillips
+
+--

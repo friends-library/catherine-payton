@@ -257,6 +257,9 @@ and I think I heard that the people did not like his close doctrine.
 [.blurb]
 === To my brother Henry Payton, written on board the Alexander, 6th of the Tenth month, 1753, at Sea, Lat. 25° North.
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Dear Brother,
 
@@ -480,6 +483,8 @@ to lasting benefit, is the sincere and ardent desire of your affectionate sister
 
 [.signed-section-signature]
 Catherine Payton.
+
+--
 
 [.asterism]
 '''
@@ -2393,6 +2398,9 @@ in my ministerial service, to the very conclusion of our stay in the country.
 
 The following letter appears to have been written about this time.
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Philadelphia, First month 10th, 1756.
 
@@ -2452,6 +2460,8 @@ I am your affectionate cousin,
 
 [.signed-section-signature]
 Catherine Payton
+
+--
 
 And now, as it was our lots in the wise direction of Providence,
 to be in the province of Pennsylvania,

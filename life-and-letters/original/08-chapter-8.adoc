@@ -683,6 +683,9 @@ About this time she penned the following letter, viz.
 [.signed-section-context-open]
 To a Friend of Ireland, written a short time before I left it, in the year 1776.
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Esteemed friend,
 
@@ -771,6 +774,8 @@ I now conclude in true love, your friend,
 
 [.signed-section-signature]
 Catherine Payton
+
+--
 
 N+++.+++ B. These Friends had lately lost a young son.
 
@@ -1118,6 +1123,9 @@ The 6th, we got home.
 [.signed-section-context-open]
 6th of the Sixth Month, 1778.
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Esteemed friend,
 
@@ -1219,6 +1227,8 @@ not only to one but to all of his disciples;
 [.signed-section-signature]
 Catherine Phillips
 
+--
+
 The 31st of this month I had a meeting at the house of a man lately convinced,
 in the parish of Breague; where some hundreds of people gathered,
 that we were obliged to hold it without doors.
@@ -1268,6 +1278,9 @@ and I believe were instructed and refreshed.
 
 [.blurb]
 === Copy of a letter to a young man from America, viz,
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 To a young man, an American.
@@ -1325,8 +1338,13 @@ who am thy real friend,
 [.signed-section-signature]
 Catherine Phillips
 
+--
+
 [.asterism]
 '''
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 To B. H.--Yorkshire.
@@ -1413,3 +1431,5 @@ From thy affectionate friend,
 
 [.signed-section-signature]
 Catherine Phillips
+
+--

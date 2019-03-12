@@ -213,6 +213,9 @@ While at Amsterdam she wrote the following letter:
 [.blurb]
 === To a young man in Ireland, who had been long under religious impressions.
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Amsterdam, 1st of Eighth month, 1757.
 
@@ -303,6 +306,8 @@ and conclude myself, Your well-wishing friend,
 
 [.signed-section-signature]
 Catherine Payton.
+
+--
 
 The 5th of the eighth month, we went in the trackscuyts, as far as Horn, towards Twisk,
 our friend Sophia Vander Werf accompanying us.
@@ -534,6 +539,9 @@ or other services.
 [.blurb]
 === Extract of a letter to a young man, under religious exercises.
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Esteemed Friend,
 
@@ -593,3 +601,5 @@ may a sense thereof be communicated in the most needful time.
 
 [.signed-section-signature]
 Catherine Payton
+
+--

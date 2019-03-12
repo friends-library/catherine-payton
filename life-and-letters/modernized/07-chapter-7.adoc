@@ -107,6 +107,9 @@ The Epistle is as follows:
 [.blurb]
 === To Friends in Ireland.
 
+[.embedded-content-document.epistle]
+--
+
 [.salutation]
 Dear Friends,
 
@@ -414,6 +417,8 @@ Catherine Payton
 [.signed-section-context-close]
 Dudley, 10th of Tenth month, 1758.
 
+--
+
 My mind settled in quiet after this disappointment, but my body had suffered so much,
 that a little rest seemed necessary to repair my health;
 and I entertained a hope of being at and about home this winter;
@@ -570,6 +575,9 @@ but I experienced that hand which employed me, to be strength in weakness:
 salvation and power be ascribed thereto forever!
 It appears the following letter was written about this time.
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Third month 15th, 1760.
 
@@ -612,6 +620,8 @@ your friend and companion,
 
 [.signed-section-signature]
 Catherine Payton
+
+--
 
 In the beginning of fourth month my sister Ann was married to Thomas Summerfield,
 of Bloxham, Oxfordshire; and my brother, who accompanied her to her new habitation,
@@ -897,6 +907,9 @@ upon the whole, Friends had cause to be thankful for the opportunity.
 
 About this time she wrote the following Epistle:
 
+[.embedded-content-document.epistle]
+--
+
 [.signed-section-context-open]
 To the Quarterly Men`'s meeting of Friends of +++________+++,
 
@@ -994,6 +1007,8 @@ Catherine Payton
 
 [.signed-section-context-close]
 27th of 8th month, 1761.
+
+--
 
 N+++.+++ B. This Epistle may appear close and sharp, considering unto whom it was directed;
 but there was sorrowful cause for it, in some individuals.

@@ -378,6 +378,9 @@ labour and sufferings attending the journey.
 [.blurb]
 === Copy of a Letter to that truly great minister, my ancient friend, Abigail Watson of Ireland.
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Dudley, 18th of Eleventh month, 1751.
 
@@ -426,6 +429,8 @@ in which I at this time both salute and bid you farewell, and am thy affectionat
 [.signed-section-signature]
 Catherine Payton.
 
+--
+
 Before I left Ireland,
 I found my mind drawn to visit the quarterly meeting of
 ministers and elders in the province of Ulster by an Epistle;
@@ -436,6 +441,9 @@ and sat together in silence, but were in an unsettled state.
 
 [.blurb]
 === To the few who have been convinced of the rectitude of waiting upon the Lord in silence, and accustomed to meet for that good end, in Cardiff.
+
+[.embedded-content-document.epistle]
+--
 
 [.salutation]
 Friends,
@@ -534,6 +542,8 @@ Catherine Payton
 
 [.signed-section-context-close]
 Dudley, 16th Third month, called March, 1752.
+
+--
 
 This winter I found my mind drawn in the love of
 Truth to visit the meetings of Friends in London,

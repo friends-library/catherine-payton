@@ -347,6 +347,9 @@ Some extracts of my letter to her, with her answer, follow.
 [.letter-heading]
 Catherine Payton to Mary Peisley
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 My Dear Friend,
 
@@ -444,8 +447,13 @@ and leave me to Providence, who, I believe will take care of me.
 [.signed-section-signature]
 Catherine Payton
 
+--
+
 [.blurb]
 === Some extracts of Mary Peisley`'s letter to Catherine Phillips, in answer to the foregoing.
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 My Dearly Beloved in the Lord,
@@ -547,6 +555,8 @@ but if you have any call to Ireland before you goes, let not this prevent you.
 
 [.signed-section-signature]
 Mary Peisley
+
+--
 
 After the receipt of this letter I continued to make preparation for the journey,
 my way being open both in the minds of my relations and friends;
