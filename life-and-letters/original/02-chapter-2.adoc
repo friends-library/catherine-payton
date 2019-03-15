@@ -263,6 +263,9 @@ but as he saw meet in wisdom and mercy, to raise me from this state of weakness,
 my earnest desire was,
 that my longer continuance in mutability might be to the honour of his ever worthy name.
 
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === Letter from her mother received about this time.
 
@@ -306,6 +309,8 @@ affectionate mother,
 
 [.signed-section-signature]
 Ann Payton.
+
+--
 
 In the time of my indisposition, I lodged at Robert Clibborn`'s,
 whose wife was exceedingly tender of me.
@@ -375,6 +380,9 @@ and great enjoyment in the Truth;
 which was an abundant compensation for all my
 labour and sufferings attending the journey.
 
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === Copy of a Letter to that truly great minister, my ancient friend, Abigail Watson of Ireland.
 
@@ -426,6 +434,8 @@ in which I at this time both salute and bid you farewell, and am thy affectionat
 [.signed-section-signature]
 Catherine Payton.
 
+--
+
 Before I left Ireland,
 I found my mind drawn to visit the quarterly meeting of
 ministers and elders in the province of Ulster by an Epistle;
@@ -433,6 +443,9 @@ and soon after my return home,
 I was also concerned to write a few lines to a people at Cardiff in Wales,
 who had in part relinquished their former professions of religion,
 and sat together in silence, but were in an unsettled state.
+
+[.embedded-content-document.epistle]
+--
 
 [.blurb]
 === To the few who have been convinced of the rectitude of waiting upon the Lord in silence, and accustomed to meet for that good end, in Cardiff.
@@ -534,6 +547,8 @@ Catherine Payton
 
 [.signed-section-context-close]
 Dudley, 16th Third month, called March, 1752.
+
+--
 
 This winter I found my mind drawn in the love of
 Truth to visit the meetings of Friends in London,

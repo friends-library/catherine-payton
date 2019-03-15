@@ -251,8 +251,8 @@ and whilst in Carolina appeared conscientiously concerned for the people`'s welf
 Some time after we left America he returned to England,
 and I think I heard that the people did not like his close doctrine.
 
-[.asterism]
-'''
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === To my brother Henry Payton, written on board the Alexander, 6th of the Tenth month, 1753, at Sea, Lat. 25° North.
@@ -481,8 +481,7 @@ to lasting benefit, is the sincere and ardent desire of thy affectionate sister,
 [.signed-section-signature]
 Catherine Payton.
 
-[.asterism]
-'''
+--
 
 We lodged in Charleston at John Sinclair`'s, who was educated amongst Friends,
 but had married one not of our Society.
@@ -2390,6 +2389,9 @@ in my ministerial service, to the very conclusion of our stay in the country.
 
 The following letter appears to have been written about this time.
 
+[.embedded-content-document.letter]
+--
+
 [.signed-section-context-open]
 Philadelphia, First month 10th, 1756.
 
@@ -2449,6 +2451,8 @@ I am thy affectionate cousin,
 
 [.signed-section-signature]
 Catherine Payton.
+
+--
 
 And now, as it was our lots in the wise direction of Providence,
 to be in the province of Pennsylvania,

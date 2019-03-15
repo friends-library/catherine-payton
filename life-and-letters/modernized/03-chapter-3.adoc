@@ -344,6 +344,9 @@ earnestly desiring that the Lord might be my director and preserver.
 Upon this I wrote to my dear friend Mary Peisley.
 Some extracts of my letter to her, with her answer, follow.
 
+[.embedded-content-document.letter]
+--
+
 [.letter-heading]
 Catherine Payton to Mary Peisley
 
@@ -443,6 +446,11 @@ and leave me to Providence, who, I believe will take care of me.
 
 [.signed-section-signature]
 Catherine Payton
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === Some extracts of Mary Peisley`'s letter to Catherine Phillips, in answer to the foregoing.
@@ -547,6 +555,8 @@ but if you have any call to Ireland before you goes, let not this prevent you.
 
 [.signed-section-signature]
 Mary Peisley
+
+--
 
 After the receipt of this letter I continued to make preparation for the journey,
 my way being open both in the minds of my relations and friends;

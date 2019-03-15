@@ -1397,6 +1397,9 @@ that he had as much business in accommodating disputes about property,
 and other acts of kind aid as his strength would well bear.
 He died beloved, and his loss was regretted by both the rich and poor.
 
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === To a relation.
 
@@ -1497,8 +1500,10 @@ of thy sympathizing
 [.signed-section-signature]
 Catherine Phillips
 
-[.asterism]
-'''
+--
+
+[.embedded-content-document.letter]
+--
 
 [.signed-section-context-open]
 To Redruth, Eleventh month 2nd, 1793.
@@ -1638,8 +1643,10 @@ Thy affectionate friend,
 [.signed-section-signature]
 Catherine Phillips
 
-[.asterism]
-'''
+--
+
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === To +++_______+++, who had been long in a distressed state of mind, from some tenets esteemed religious.
@@ -1770,3 +1777,5 @@ and sincerely subscribe myself thy friend,
 
 [.signed-section-signature]
 Catherine Phillips
+
+--
