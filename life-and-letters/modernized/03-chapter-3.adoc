@@ -344,11 +344,11 @@ earnestly desiring that the Lord might be my director and preserver.
 Upon this I wrote to my dear friend Mary Peisley.
 Some extracts of my letter to her, with her answer, follow.
 
-[.letter-heading]
-Catherine Payton to Mary Peisley
-
 [.embedded-content-document.letter]
 --
+
+[.letter-heading]
+Catherine Payton to Mary Peisley
 
 [.salutation]
 My Dear Friend,
@@ -449,11 +449,11 @@ Catherine Payton
 
 --
 
-[.blurb]
-=== Some extracts of Mary Peisley`'s letter to Catherine Phillips, in answer to the foregoing.
-
 [.embedded-content-document.letter]
 --
+
+[.blurb]
+=== Some extracts of Mary Peisley`'s letter to Catherine Phillips, in answer to the foregoing.
 
 [.salutation]
 My Dearly Beloved in the Lord,

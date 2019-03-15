@@ -449,6 +449,9 @@ Catherine Payton
 
 --
 
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === Some extracts of Mary Peisley`'s letter to Catherine Phillips, in answer to the foregoing.
 
@@ -552,6 +555,8 @@ but if thou hast any call to Ireland before thou goes, let not this prevent thee
 
 [.signed-section-signature]
 Mary Peisley
+
+--
 
 After the receipt of this letter I continued to make preparation for the journey,
 my way being open both in the minds of my relations and friends;

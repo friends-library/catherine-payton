@@ -263,6 +263,9 @@ but as he saw fit in wisdom and mercy, to raise me from this state of weakness,
 my earnest desire was,
 that my longer continuance in mutability might be to the honour of his ever worthy name.
 
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === Letter from her mother received about this time.
 
@@ -306,6 +309,8 @@ affectionate mother,
 
 [.signed-section-signature]
 Ann Payton.
+
+--
 
 In the time of my indisposition, I lodged at Robert Clibborn`'s,
 whose wife was exceedingly tender of me.
@@ -375,11 +380,11 @@ and great enjoyment in the Truth;
 which was an abundant compensation for all my
 labour and sufferings attending the journey.
 
-[.blurb]
-=== Copy of a Letter to that truly great minister, my ancient friend, Abigail Watson of Ireland.
-
 [.embedded-content-document.letter]
 --
+
+[.blurb]
+=== Copy of a Letter to that truly great minister, my ancient friend, Abigail Watson of Ireland.
 
 [.signed-section-context-open]
 Dudley, 18th of Eleventh month, 1751.
@@ -440,11 +445,11 @@ I was also concerned to write a few lines to a people at Cardiff in Wales,
 who had in part relinquished their former professions of religion,
 and sat together in silence, but were in an unsettled state.
 
-[.blurb]
-=== To the few who have been convinced of the rectitude of waiting upon the Lord in silence, and accustomed to meet for that good end, in Cardiff.
-
 [.embedded-content-document.epistle]
 --
+
+[.blurb]
+=== To the few who have been convinced of the rectitude of waiting upon the Lord in silence, and accustomed to meet for that good end, in Cardiff.
 
 [.salutation]
 Friends,

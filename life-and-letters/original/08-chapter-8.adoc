@@ -675,16 +675,14 @@ many Friends came to see me, and we were favoured together.
 I was enabled to speak beyond my expectation, to the comfort and encouragement of some,
 and caution of others, and took a solemn farewell of them in the love of Truth.
 
-[.asterism]
-'''
-
+[.offset]
 About this time she penned the following letter, viz.
-
-[.signed-section-context-open]
-To a Friend of Ireland, written a short time before I left it, in the year 1776.
 
 [.embedded-content-document.letter]
 --
+
+[.signed-section-context-open]
+To a Friend of Ireland, written a short time before I left it, in the year 1776.
 
 [.salutation]
 Esteemed friend,
@@ -1117,14 +1115,14 @@ amongst a people not professing with us;
 but some of whom appeared to me to be near the kingdom.
 The 6th, we got home.
 
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === Extract of a letter to a Member of our Society, who had spent much of his time very inconsistently with his profession of religion, and was favoured with a Divine visitation when far advanced in life.
 
 [.signed-section-context-open]
 6th of the Sixth Month, 1778.
-
-[.embedded-content-document.letter]
---
 
 [.salutation]
 Esteemed friend,
@@ -1276,11 +1274,11 @@ The 1st of third month, I had a large good meeting at Helston,
 which many serious and religious people attended,
 and I believe were instructed and refreshed.
 
-[.blurb]
-=== Copy of a letter to a young man from America, viz,
-
 [.embedded-content-document.letter]
 --
+
+[.blurb]
+=== Copy of a letter to a young man from America, viz,
 
 [.signed-section-context-open]
 To a young man, an American.
@@ -1339,9 +1337,6 @@ who am thy real friend,
 Catherine Phillips
 
 --
-
-[.asterism]
-'''
 
 [.embedded-content-document.letter]
 --

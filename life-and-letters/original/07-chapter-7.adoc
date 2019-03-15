@@ -104,11 +104,11 @@ I penned the rough draught of an Epistle to Friends in Ireland,
 and after my return home transcribed and sent it.
 The Epistle is as follows, viz.
 
-[.blurb]
-=== To Friends in Ireland.
-
 [.embedded-content-document.epistle]
 --
+
+[.blurb]
+=== To Friends in Ireland.
 
 [.salutation]
 Dear Friends,
@@ -902,9 +902,7 @@ as of late years had been usual,
 nor did the life of Truth in the ministry rise to the height I have known it; yet,
 upon the whole, Friends had cause to be thankful for the opportunity.
 
-[.asterism]
-'''
-
+[.offset]
 About this time she wrote the following Epistle, viz.
 
 [.embedded-content-document.letter]

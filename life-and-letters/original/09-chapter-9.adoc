@@ -1397,11 +1397,11 @@ that he had as much business in accommodating disputes about property,
 and other acts of kind aid as his strength would well bear.
 He died beloved, and his loss was regretted by both the rich and poor.
 
-[.blurb]
-=== To a relation.
-
 [.embedded-content-document.letter]
 --
+
+[.blurb]
+=== To a relation.
 
 [.signed-section-context-open]
 Redruth, 29th of Seventh month, 1793.
@@ -1501,9 +1501,6 @@ of thy sympathizing
 Catherine Phillips
 
 --
-
-[.asterism]
-'''
 
 [.embedded-content-document.letter]
 --
@@ -1648,14 +1645,11 @@ Catherine Phillips
 
 --
 
-[.asterism]
-'''
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === To +++_______+++, who had been long in a distressed state of mind, from some tenets esteemed religious.
-
-[.embedded-content-document.letter]
---
 
 [.salutation]
 Esteemed friend,

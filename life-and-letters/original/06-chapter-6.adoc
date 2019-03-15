@@ -210,11 +210,11 @@ and a dependence on instrumental ministry, or at least a fondness for it.
 
 While at Amsterdam she wrote the following letter, viz:
 
-[.blurb]
-=== To a young man in Ireland, who had been long under religious impressions.
-
 [.embedded-content-document.letter]
 --
+
+[.blurb]
+=== To a young man in Ireland, who had been long under religious impressions.
 
 [.signed-section-context-open]
 Amsterdam, 1st of Eighth month, 1757.
@@ -535,11 +535,11 @@ This winter I spent much about home, and amongst my relations: not in idleness,
 for I was very closely engaged either in attending monthly or quarterly meetings,
 or other services.
 
-[.blurb]
-=== Extract of a letter to a young man, under religious exercises.
-
 [.embedded-content-document.letter]
 --
+
+[.blurb]
+=== Extract of a letter to a young man, under religious exercises.
 
 [.salutation]
 Esteemed Friend,
@@ -602,4 +602,3 @@ may a sense thereof be communicated in the most needful time.
 Catherine Payton
 
 --
-
