@@ -19,7 +19,7 @@ I left home to accomplish this service, accompanied by my dear husband;
 and on the 13th of the third month 1779, we met our friend Lydia Hawksworth,
 who was concerned to accompany me therein, at Wellington.
 The 14th, being the first of the week, we attended Friends`' meeting at Spiceland;
-and in the evening had a select opportunity with Friends at Wellington,
+and in the evening had a select opportunity with Friends at Wellington.
 My husband then proceeded to Bristol on business: we industriously pursued our concern,
 visiting many meetings that week; and on the 21st, first-day,
 were met by my husband and my brother James Payton, at Puddimore meeting.
@@ -58,12 +58,12 @@ we pursued this service with diligence, and on the 24th of the fourth month,
 we paid our last visit.
 
 My brother Young had accompanied us through the visit,
-but Thomas Waring left us at Almelly on the 18th,
+but Thomas Waring left us at Almelly on the 18th;
 their company was acceptable and strengthening to us.
 
 On the 25th (being first-day) we had a meeting at Shire Newton in Monmouthshire,
 which was attended by many of the Welch people, and the few Friends in the neighbourhood,
-and, I believe was an acceptable opportunity to them.
+and I believe was an acceptable opportunity to them.
 In the evening we had a meeting with Mary Powel of Chepstow and some others.
 She was the only member of our Society residing in that town;
 where a meeting of Friends was never settled.
@@ -138,7 +138,7 @@ After this meeting, I was easy to return home; so,
 accompanied by my companion and a Friend of Melksham, I left that place;
 and got to a meeting held at Grenton in Somersetshire on first-day,
 which was attended by many of the country people,
-both of that place and its neighbourhood) and was a favoured opportunity.
+both of that place and its neighbourhood, and was a favoured opportunity.
 
 There being a funeral at the public burying ground on the preceding evening,
 our friends Beaven, with whom we lodged, gave notice, at my request,
@@ -158,7 +158,7 @@ her attention was turned to assist in restoring my strength;
 and as she also was in need of rest,
 I hope she gained some advantage by accompanying me home;
 although our quiet was disturbed in the eighth month,
-by an alarm of the French and Spanish fleets being off`" Falmouth Harbour.
+by an alarm of the French and Spanish fleets being off Falmouth Harbour.
 
 What their design was could not be known, but there they lay for some days,
 the wind not permitting them to go up the channel; and as they did not attempt to land,
@@ -246,7 +246,7 @@ Before I left Cornwall, I had informed Friends of our monthly meeting,
 that I was under an engagement of duty to attend the
 quarterly meeting for Oxfordshire to be held at Banbury,
 and to visit some meetings in Warwickshire, Worcestershire, Shropshire,
-and Gloucestershire, also to attend the`' circular yearly meeting to be held at Hereford;
+and Gloucestershire, also to attend the circular yearly meeting to be held at Hereford;
 wherewith they concurred.
 And my friend Lydia Hawksworth being given up to accompany me,
 I stayed at and in the neighbourhood of Bristol, until the seventh month,
@@ -279,7 +279,7 @@ and to Warwick the 28th. We stayed here with my dear sister Summerfield,
 until the 4th of the eighth month, when we went to Shipton,
 where the quarterly meeting for Worcestershire was held the next day,
 at which were many Friends of that county,
-who rejoiced to see me,`' and we were favoured together in the Divine presence.
+who rejoiced to see me, and we were favoured together in the Divine presence.
 On the 6th, we had a meeting at Long Compton, which, although small,
 was a favoured season.
 The same evening we had a meeting at Tredington
@@ -602,7 +602,7 @@ We went direct, only called and stayed a short time with my brother,
 and returned to the yearly meeting at Bristol, and from there to London.
 
 When I went from Bristol to Bridgenorth, my husband went to Swansea,
-and met me in London, to attend the yearly meeting there,
+and met me in London, to attend the yearly meeting there.
 A general epidemic cold reigned during the sitting of the yearly meeting.
 Many Friends were seized with it, but we were favoured to escape it,
 until much of the service of the meetings was over.
@@ -639,7 +639,7 @@ who advised me to try the effect of electricity on my contracted joints.
 After I had continued some time under that operation, he ordered me to Bath,
 to try the effect of pumping upon them,
 at the same time continuing the medicines he had prescribed.
-But all was without the desired effect; and indeed I believe the Doctor had but little.
+But all was without the desired effect; and indeed I believe the Doctor had but little
 hope in my case, for he intimated that I might probably become an entire cripple,
 and live many years in that state; which has been my case.
 
@@ -668,7 +668,7 @@ We also visited almost all the meetings in Norfolk,
 then passed into Cambridgeshire and the Isle of Ely, visiting the meetings therein,
 from there into Essex,
 and after visiting several meetings which I had not before attended in that county,
-turned back through Cambridgeshire to Huntingdon,
+turned back through Cambridgeshire to Huntingdon.
 In this journey I sustained much labour both in body and spirit,
 which was the more painful from my increased and increasing weakness;
 which rendered it probable, as indeed it proved,
@@ -708,7 +708,7 @@ as my Lord and Master did, "`My doctrines are not mine,
 but his who sent me:`" and his love, life, and power, have accompanied them,
 to the stopping of the mouths of gainsayers,
 and convincing of the understandings of many,
-of the rectitude and efficacy of "`the Truth as it is in Christ Jesus.`"
+of the rectitude and efficacy of "`the Truth as it is in Christ Jesus,`"
 the depth and excellency of true gospel ministry!
 The Lord`'s prophet in the prospect of it might well exclaim,
 "`How beautiful upon the mountains are the feet of those who bring good tidings,
@@ -1572,7 +1572,7 @@ which will compensate for all labours, sufferings,
 and the loss of every temporal blessing wherewith you may be tried.
 
 It appears clear to me,
-that if our living brethren and sisters who are nut
+that if our living brethren and sisters who are not
 called to labour publicly in word and doctrine,
 solemnly attended to their share of this rectifying work,
 it would tend to an increase of true spiritual unity and sympathy among us.
@@ -1628,7 +1628,7 @@ yet at times conclude myself a solitary afflicted widow,
 increasing in bodily infirmities,
 and able to do but little to promote the cause of righteousness.
 He who judges righteously only knows the cause of my late great affliction,
-whereto my most affectionate friends were in a great measure Wind.
+whereto my most affectionate friends were in a great measure blind.
 May the dispensation of his mercy and judgement be so sanctified to my spirit,
 as to prepare it for admittance into his kingdom when
 dislodged from this decrepit and much afflicted tabernacle.
@@ -1680,7 +1680,6 @@ and are passive to the direction of their tutors.
 Those who are resigned to the Father`'s will, are to know of the doctrines of the Son:
 unto these they are marvellously opened and sealed, so that they can say they believe,
 not because of the testimony of others, but have "`the witness in themselves`"
-
 that they are the doctrines of Truth; and thus believing, they enter into rest,
 being certain that they have acquired the knowledge of the Truth;
 and pressing forward under its influence,
@@ -1713,7 +1712,7 @@ and in noisome prisons livingly praised Him who had called them,
 not only to believe in Christ and his doctrines, but to suffer for him.
 Many of these have left faithful records of their sufferings, exercises,
 and experiences of the merciful dealings of the Lord with their souls;
-which may he as marks in the way to those who are sincerely
+which may be as marks in the way to those who are sincerely
 seeking the same city which was prepared for them,
 and tend to strengthen their resolution to walk as they did; in holy self-denial,
 in contempt of the world, and in reverence and fear of offending Him,
