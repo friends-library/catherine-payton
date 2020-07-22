@@ -451,7 +451,8 @@ sympathizing friend is a great strength and blessing when afforded in divine wis
 [.asterism]
 '''
 
-+++[+++_Note from Editor:_ At this point in her journal,
+[.offset]
++++[+++__Note from Editor:__ At this point in her journal,
 Catherine Payton commenced a detailed account of her travels in the work of the ministry,
 which services occupied her almost continually for the next twenty years of her life.
 Though there is much interesting biographical information and many
@@ -470,7 +471,11 @@ in the American Colonies between 1753 and 1756.
 An excerpt from Rebecca Jones`' journal is included
 in order to give context to the letter that follows.]
 
+[.offset]
 Rebecca Jones writes:
+
+[.embedded-content-document]
+--
 
 In the year 1754, and in the 16th year of my age,
 there came from old England on a religious visit to the churches of Christ in America,
@@ -544,11 +549,13 @@ and my mind encouraged to trust in His boundless mercy, thus extended to me, a p
 unworthy creature.
 Perhaps the reading of it may revive the hope of some afflicted soul.
 
+[.letter-heading]
 Catherine Payton to Rebecca Jones
 
-Philadelphia.
-4th month 1st, 1755.
+[.signed-section-context-open]
+Philadelphia. 4th month 1st, 1755.
 
+[.salutation]
 Dear Child,
 
 I have carefully read your letter, and,
@@ -595,23 +602,36 @@ will use his utmost endeavors to convey it to you.
 Farewell; and may the Lord continue to bless you.
 I conclude, in much haste, your sympathizing friend,
 
+[.signed-section-signature]
 Catherine Payton.
+
+[.postscript]
+====
 
 P+++.+++ S. I had rather you keep this to yourself; and be sure,
 be careful how you tell your condition to such as have no understanding of it.
 
+====
+
+--
+
 [.asterism]
 '''
 
+[.offset]
 +++[+++The following letter was written by Catherine Payton
 and addressed to a group of people at Cardiff, in Wales,
 who had in part relinquished their former profession of
 religion and sat down together to wait upon the Lord,
 but who remained in an unsettled state.]
 
-To the few who have been convinced of the rectitude of waiting upon the Lord in silence,
-and accustomed to meet for that good end, in Cardiff.
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== To the few who have been convinced of the rectitude of waiting upon the Lord in silence, and accustomed to meet for that good end, in Cardiff.
+
+[.salutation]
 Friends,
 
 In the love of my heavenly Father, joined with a sense of duty,
@@ -707,15 +727,21 @@ you may for the future keep more close to the divine Guide,
 and thus be clothed with wisdom and strength,
 and witness salvation and peace to accompany you.
 
+[.signed-section-closing]
 I am your real friend,
 
+[.signed-section-signature]
 Catherine Payton.
 
+[.signed-section-context-close]
 Dudley, 16th of the Third month, called March, 1752.
+
+--
 
 [.asterism]
 '''
 
+[.offset]
 +++[+++The following general epistle, written by Catherine Payton in 1758,
 was addressed to Friends in Ireland at a time when many in that
 country had fallen into a sad state of degeneracy from the life,
@@ -723,6 +749,10 @@ purity, and power of the Spirit that had so characterized the early Society of F
 and instead had settled into lifeless formalism on the one hand,
 and fleshly liberty on the other.]
 
+[.embedded-content-document.epistle]
+--
+
+[.salutation]
 Dearly beloved,
 
 For with a feeling of gospel compassion I may so call you--have you ever
@@ -749,9 +779,8 @@ Have you been bowed under the testimony of the righteous Witness of God in your 
 Or have you rather suppressed and disregarded this heavenly messenger,
 not allowing it to tell you the Truth, or perhaps,
 disbelieved the doctrine it preached because it did not condone some of your actions?
-Indeed,
-have not some gone so far as to slay the "`two witnesses
-for God`"--the internal evidence of His Spirit,
+Indeed, have not some gone so far as to slay the
+"`two witnesses for God`"--the internal evidence of His Spirit,
 and the external testimony of His servants--and at
 this time are perhaps exulting in their victory,
 and proclaiming to themselves "`peace, peace;`" when alas, a day of fearfulness,
@@ -890,15 +919,21 @@ in His own time He will crown your sufferings with rejoicing.
 Finally, dearly beloved, farewell; and may the grace of our Lord Jesus Christ,
 the love of God, and the fellowship of the Holy Spirit, be with you all, Amen.
 
+[.signed-section-closing]
 I am your friend and sister in the Truth,
 
+[.signed-section-signature]
 Catherine Payton
 
+[.signed-section-context-close]
 Dudley, 10th of Tenth month, 1758.
+
+--
 
 [.asterism]
 '''
 
+[.offset]
 +++[+++This final letter is addressed to her elder brother Henry,
 who was the son of her father by a previous marriage, but not the son of her mother.
 Speaking of this brother in another place in her journal, Catherine says: "`When a youth,
@@ -911,8 +946,13 @@ he knew were inconsistent with the profession of Truth,
 he threw it off; saying, he would not retain the name +++[+++of a Quaker]
 and be a reproach to the people.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To her brother, Henry Payton.
 
+[.salutation]
 Dear Brother,
 
 Heretofore when absent,
@@ -1112,6 +1152,10 @@ And, that the everlasting Minister of the sanctuary may
 enlarge them in the view of your understanding,
 to your lasting benefit, is the sincere and ardent desire of your affectionate sister,
 
+[.signed-section-signature]
 Catherine Payton.
 
+[.signed-section-context-close]
 Written at sea on board the Alexander, 6th of the Tenth month, 1753.
+
+--
